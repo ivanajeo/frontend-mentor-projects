@@ -9,6 +9,7 @@ Desktop view
 ![](./public/desktop-view.png)
 
 Mobile view
+
 ![](./public/mobile-view.png)
 
 
