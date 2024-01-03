@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Desktop view
 ![](./public/desktop-view.png)
 
-Mobile view
+Mobile view                       
            ![](./public/mobile-view.png)
 
 
