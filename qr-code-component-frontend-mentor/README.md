@@ -6,10 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Screenshot
 
 Desktop view
-![](./public/desktop-view.png)
+![](./screenshots/desktop-view.png)
 
 Mobile view                       
-           ![](./public/mobile-view.png)
+           ![](./screenshots/mobile-view.png)
 
 
 ## Links
