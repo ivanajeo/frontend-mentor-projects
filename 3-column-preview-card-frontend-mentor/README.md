@@ -26,5 +26,5 @@ Mobile view + hover
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ivanajeo/frontend-mentor-projects/tree/main/3-column-preview-card-frontend-mentor)
-- Live Site URL: [Add live site URL here](https://ivanajeo.github.io/frontend-mentor-projects/3-column-preview-card-frontend-mentor/index.html)
+- Solution URL: [click here](https://github.com/ivanajeo/frontend-mentor-projects/tree/main/3-column-preview-card-frontend-mentor)
+- Live Site URL: [click here](https://ivanajeo.github.io/frontend-mentor-projects/3-column-preview-card-frontend-mentor/index.html)
