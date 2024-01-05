@@ -29,5 +29,5 @@ Mobile view hover <br />
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/ivanajeo/frontend-mentor-projects/tree/main/single-price-grid-frontend-master)
+- Live Site URL: [here](https://ivanajeo.github.io/frontend-mentor-projects/single-price-grid-frontend-master/index.html)
