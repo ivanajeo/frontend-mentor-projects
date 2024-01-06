@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+
+    background-color: hsl(30, 38%, 92%);
+    font-family: 'Montserrat', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.attribution {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13px;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+
+.attribution a:hover {
+    color: blue;
+}
+.header-image {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.outer-box {
+    width: 90%;
+
+    background-color: #fff;
+
+    border-radius: 10px;
+
+    margin-bottom: 8px;
+}
+
+.text {
+    padding: 20px 22px;
+}
+
+.text .perfume-text {
+    color: hsl(228, 12%, 48%);
+    font-size: 12px;
+    letter-spacing: 5px;
+    margin-bottom: 12px;
+}
+
+.text h1 {
+    font-family: 'Fraunces', serif;
+    line-height: 30px;
+    margin-bottom: 22px;
+}
+
+.text .desc {
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+    line-height: 23px;
+    margin-bottom: 18px;
+}
+
+.pricelist {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 13px;
+}
+
+.pricelist .p1 {
+    font-family: 'Fraunces', serif;
+    font-size: 33px;
+    color: hsl(158, 36%, 37%);
+}
+
+.pricelist .p2 {
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+    text-decoration: line-through;
+}
+
+.button {
+    width: 100%;
+    height: 50px;
+    background-color: hsl(158, 36%, 37%);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    border-radius: 8px;
+    
+    margin-bottom: 5px;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: hsl(158, 38%, 21%);
+}
+
+.button p {
+    font-size: 13px;
+    font-weight: 700;
+    
+}
+
+@media (min-width: 375px) {
+
+    .header-image {
+        content: url(public/image-product-desktop.jpg);
+        object-fit: cover;
+        width: 50%;
+        
+    }
+    .outer-box {
+        width: 40%;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .text {
+        width: 50%;
+    }
+}
