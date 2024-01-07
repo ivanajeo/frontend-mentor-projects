@@ -116,12 +116,16 @@ body {
     
 }
 
-@media (min-width: 375px) {
-
+@media ( width > 600px) {
+    .attribution {
+        flex-direction: row;
+        gap: 5px;
+    }
     .header-image {
         content: url(public/image-product-desktop.jpg);
         object-fit: cover;
         width: 50%;
+        border-radius: 10px 0 0 10px;
         
     }
     .outer-box {
@@ -132,7 +136,16 @@ body {
         align-items: center;
     }
 
+    .pricelist {
+        margin-bottom: 25px;
+    }
+
     .text {
         width: 50%;
+        padding: 25px;
+    }
+
+    .text .desc {
+        font-size: 13px;
     }
 }
