@@ -1,3 +1,4 @@
+/* MAIN SETTINGS */
 * {
     margin: 0;
     padding: 0;
@@ -14,28 +15,19 @@ body {
     justify-content: center;
 }
 
-.attribution {
-    display: flex;
-    text-align: center;
-    gap: 5px;
-    font-size: 0.85rem;
-}
-
-.attribution a {
-    text-decoration: none;
-    color: #000;
-    cursor: pointer;
-}
-
-.attribution a:hover {
-    color: blue;
-}
-
-.text {
+.outer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+    margin-bottom: 1rem;
+}
+
+
+/* HEADING PART */
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
 }
 
 .text .header--thin {
@@ -56,12 +48,8 @@ body {
     margin-bottom: 3rem;
 }
 
-.outer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 1rem;
-}
+
+/* BOXES */
 .outer-box {
     display: flex;
     justify-content: center;
@@ -86,6 +74,7 @@ body {
     font-size: 1rem;
     margin-bottom: 0.5rem;
 }
+
 .box .desc {
     font-size: 0.65rem;
 }
@@ -118,6 +107,28 @@ body {
     border-top: 0.2rem solid hsl(212, 86%, 64%);
 }
 
+
+/* ATTRIBUTION */
+.attribution {
+    display: flex;
+    text-align: center;
+    gap: 5px;
+    font-size: 0.85rem;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+
+.attribution a:hover {
+    color: blue;
+}
+
+
+
+/* MEDIA QUERY */
 @media (max-width: 600px) {
     body {
         margin-top: 5rem;
