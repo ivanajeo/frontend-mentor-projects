@@ -21,5 +21,5 @@ Mobile view
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/ivanajeo/frontend-mentor-projects/tree/main/social-proof-section-frontend-mentor)
+- Live Site URL: [here](https://ivanajeo.github.io/frontend-mentor-projects/social-proof-section-frontend-mentor/index.html)
