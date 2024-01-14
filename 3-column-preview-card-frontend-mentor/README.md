@@ -18,10 +18,10 @@ Desktop view <br />
 Desktop view + hover <br />
 ![](./screenshots/desktop-view-hover.jpg)
 
-Mobile view                                    
+Mobile view <br />      
 ![](./screenshots/mobile-view.jpg)
 
-Mobile view + hover                       
+Mobile view + hover <br />                      
 ![](./screenshots/mobile-view-hover.jpg)
 
 ### Links
