@@ -18,13 +18,13 @@ Desktop view <br />
 Desktop view + hover <br />
 ![](./screenshots/desktop-view-hover.jpg)
 
-Mobile view <br />      
+Mobile view <br />
 ![](./screenshots/mobile-view.jpg)
 
-Mobile view + hover <br />                      
+Mobile view + hover <br />
 ![](./screenshots/mobile-view-hover.jpg)
 
 ### Links
 
-- Solution URL: [click here](https://github.com/ivanajeo/frontend-mentor-projects/tree/main/3-column-preview-card-frontend-mentor)
-- Live Site URL: [click here](https://ivanajeo.github.io/frontend-mentor-projects/3-column-preview-card-frontend-mentor/index.html)
+- Solution URL: [here](https://github.com/ivanajeo/frontend-mentor-projects/tree/main/3-column-preview-card-frontend-mentor)
+- Live Site URL: [here](https://ivanajeo.github.io/frontend-mentor-projects/3-column-preview-card-frontend-mentor/index.html)
