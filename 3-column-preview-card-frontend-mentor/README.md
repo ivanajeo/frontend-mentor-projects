@@ -12,10 +12,10 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop view
+Desktop view <br />
 ![](./screenshots/desktop-view.jpg)
 
-Desktop view + hover
+Desktop view + hover <br />
 ![](./screenshots/desktop-view-hover.jpg)
 
 Mobile view                                    
