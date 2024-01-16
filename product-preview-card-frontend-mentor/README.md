@@ -14,10 +14,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop view
-![](./screenshots/desktop-view.jpg)
+![](./screenshots/desktop-view.png)
 
 Desktop view + hover
-![](./screenshots/desktop-view-hover.jpg)
+![](./screenshots/desktop-view-hover.png)
 
 Mobile view                                    
 ![](./screenshots/mobile-view.png)
