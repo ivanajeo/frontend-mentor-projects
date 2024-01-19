@@ -1,6 +1,6 @@
 # Live URL to Frontend Mentor Projects Solutions
 
-1. QR Code: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/qr-code-component-frontend-mentor/index.html) <br />
+Markup: 1. QR Code: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/qr-code-component-frontend-mentor/index.html) <br />
 2. 3 Column Preview Card: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/3-column-preview-card-frontend-mentor/index.html) <br />
 3. Single Price Grid: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/single-price-grid-frontend-master/index.html) <br />
 4. Order Summary: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/order-summary-frontend-mentor/index.html) <br />
