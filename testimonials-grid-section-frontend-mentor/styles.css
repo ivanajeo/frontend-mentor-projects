@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+
+/* MAIN SETTINGS */
 body {
     background-color: hsl(210, 46%, 95%);
     font-family: 'Barlow Semi Condensed', sans-serif;
