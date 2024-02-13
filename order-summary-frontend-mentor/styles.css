@@ -170,6 +170,7 @@ body {
 }
 
 
+/* media query */
 @media (max-width: 600px) {
 
     .attribution {
@@ -181,7 +182,6 @@ body {
 
     .illus, .outer-box {
         max-width: 320px;
-        height: auto;
-        
+        height: auto;  
     }
 }
