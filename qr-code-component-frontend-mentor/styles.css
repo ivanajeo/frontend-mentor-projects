@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+/* main settings */
 body {
     width: 100vw;
     background-color: hsl(212, 45%, 89%);
