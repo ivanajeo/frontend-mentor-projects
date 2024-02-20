@@ -169,7 +169,8 @@ main {
     color: blue;
 }
 
-/* MEDIA QUERY */
+
+/* media query */
 @media (max-width: 600px) {
     body {
         margin-top: 5rem;
