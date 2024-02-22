@@ -170,7 +170,7 @@ main {
 }
 
 
-/* media query */
+/* MEDIA QUERY */
 @media (max-width: 600px) {
     body {
         margin-top: 5rem;
