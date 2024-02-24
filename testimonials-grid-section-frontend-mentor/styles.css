@@ -102,7 +102,6 @@ body {
 
 .box--one {
     width: 68%;
-    
     background: hsl(263, 55%, 52%) url(public/bg-pattern-quotation.svg) top right no-repeat;
 
     background-position: top right 20%; 
