@@ -124,6 +124,8 @@ img {
     border-radius: 0 8px 8px 0;
 }
 
+
+/* media query */
 @media (max-width: 875px) {
     
     .attribution {
