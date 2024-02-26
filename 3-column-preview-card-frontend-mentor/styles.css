@@ -127,7 +127,6 @@ img {
 
 /* media query */
 @media (max-width: 875px) {
-    
     .attribution {
         margin-bottom: 100px;
     }
@@ -144,8 +143,6 @@ img {
     .third {
         border-radius: 0 0 8px 8px;
     }
-
-
 }
 
 
