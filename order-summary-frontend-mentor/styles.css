@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+
+/* main settings */
 body {
     background-image: url("public/pattern-background-desktop.svg");
     background-repeat: no-repeat;
