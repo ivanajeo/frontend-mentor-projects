@@ -174,7 +174,6 @@ body {
 
 /* media query */
 @media (max-width: 600px) {
-
     .attribution {
         display: flex;
         flex-direction: column;
