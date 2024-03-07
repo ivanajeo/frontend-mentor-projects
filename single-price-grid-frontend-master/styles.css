@@ -147,7 +147,6 @@ body {
 }
 
 @media (max-width: 660px) { 
-
     .attribution {
         margin-top: 10px;
         margin-bottom: 80px;
@@ -181,6 +180,5 @@ body {
 
     .white-box {
         height: auto;
-    }
-    
+    } 
 }
