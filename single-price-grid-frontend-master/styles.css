@@ -146,6 +146,8 @@ body {
     color: hsl(198, 5%, 62%, 0.9);
 }
 
+
+/* MEDIA QUERY */
 @media (max-width: 660px) { 
     .attribution {
         margin-top: 10px;
