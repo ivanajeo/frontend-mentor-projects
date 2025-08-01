@@ -9,3 +9,6 @@
 7. Four Card Feature Section: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/four-card-feature-section-frontend-mentor/index.html) <br />
 8. Social Proof Section: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/social-proof-section-frontend-mentor/index.html) <br />
 9. Testimonials Grid Section: [URL here](https://ivanajeo.github.io/frontend-mentor-projects/testimonials-grid-section-frontend-mentor/index.html) <br />
+
+
+This is an educational frontend-only demo site. No backend functionality is included. No user data is collected or processed. 
